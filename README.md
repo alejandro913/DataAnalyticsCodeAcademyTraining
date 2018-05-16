@@ -1,4 +1,4 @@
-# DataAnalyticsCodeAcademyTraining
+# DataAnalyticsTraining
 
 # this is just a place to keep my documents / files / scripts from my dive into data analytics
 
